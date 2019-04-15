@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <p>Dhruva</p>
   </div>
 </template>
 
